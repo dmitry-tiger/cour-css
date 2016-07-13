@@ -1,0 +1,19 @@
+body{
+	background-color: #F3F3DE;
+	color:#000000;
+}
+#header-nav{
+	background-color: grey; 
+	color: black;
+	border-radius: 0;
+	border:0;
+}
+
+#myNavbar ul>li>a{
+	color: black;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+	color:black;
+	background-color: black;
+}
